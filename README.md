@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Shripati Jadhav
 
 💻 Full Stack Java Developer  
-⚙️ Spring Boot | Angular | MySQL
+⚙️ Spring Boot | Angular | React | MySQL
 
 ---
 
@@ -42,4 +42,4 @@
 ---
 
 ## 📫 Contact
-Email: shripatijadhav96@gmail.com
+Email: shripatijadhav92@gmail.com
